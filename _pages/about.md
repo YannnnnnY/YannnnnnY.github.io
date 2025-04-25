@@ -53,7 +53,7 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **Yan Yang**, Zonghan Yang, Xiao Yan, Guan
 </div>
 <!-- ============================================================================= -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/SeqAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters**
@@ -67,7 +67,7 @@ distracting LLMs and expanding the applicable area of the generated jailbreak pr
 </div>
 <!-- ============================================================================= -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/DAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
