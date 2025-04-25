@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/ImPart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs
@@ -39,6 +39,7 @@ ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+<!-- ============================================================================= -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,22 +48,24 @@ FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programmin
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **Yan Yang**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+<!-- ============================================================================= -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages
+SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters
 
-Yongdong Chi, Hanqing Wang, Yun Chen, **Yan Yang**, Zonghan Yang, Xiao Yan, Guanhua Chen
+**Yan Yang**, Zeguan Xiao, Xin Lu, Hongru Wang, Xuetao Wei, Hailiang Huang, Guanhua Chen, Yun Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**📃 Paper**](https://arxiv.org/pdf/2407.01902) | [**⚙️ Code**](https://github.com/sufenlp/SeqAR)
+- Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to respond sequentially as these characters in a single output, thereby further
+distracting LLMs and expanding the applicable area of the generated jailbreak prompt.
 </div>
 </div>
+<!-- ============================================================================= -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
