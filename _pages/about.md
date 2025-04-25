@@ -35,7 +35,7 @@ ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and
 
 **Yan Yang**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
-[**Paper**](https://arxiv.org/pdf/2504.13237) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📃 Paper**](https://arxiv.org/pdf/2504.13237) | [**⚙️ Code**](https://github.com/yanyang19/ImPart)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
