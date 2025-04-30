@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 Hi!
+I am a second-year Master candidate at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
 
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
 
@@ -38,7 +39,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
-[[ **📑 Paper** ]](https://arxiv.org/pdf/2504.13237) | [[ **⚙️ Code** ]](https://github.com/yanyang19/ImPart) | [ **🔖 Submitted to ACL 2025** ]
+[[ **📑 Paper** ]](https://arxiv.org/pdf/2504.13237) | [⚙️ [**Code**](https://github.com/yanyang19/ImPart)] | [ **🔖 Submitted to ACL 2025** ]
 - Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, we developed ImPart, which assigns variable sparsity ratios to singular vectors
 based on their corresponding singular values.
 </div>
@@ -91,6 +92,7 @@ Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yu
 - *2023.07* Outstanding Graduate of Shanghai University of Finance and Economics.
 - *2023.01* Tailong Commercial Bank Scholarship (top 15%).
 - *2020.09 - 2023.07* Renming Scholarship, 3rd Prize (top 15%).
+
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, School of Computer & Artificial Intelligence, Shanghai University of Finance and Economics, Shanghai.  
 - *2019.09 - 2023.06*, Undergraduate, School of Information Management & Engineering, Shanghai University of Finance and Economics, Shanghai. 
