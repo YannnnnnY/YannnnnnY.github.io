@@ -7,18 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 
-# 👋 Hi! 
+# 👋 Hi ! 
 I am a second-year Master candidate at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
 
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
