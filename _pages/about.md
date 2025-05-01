@@ -40,7 +40,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025**  
-
+<br>
 **TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
 
 </div>
@@ -69,7 +69,7 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 **<span style="color: #0055aa;">Yan Yang</span>**, Zeguan Xiao, Xin Lu, Hongru Wang, Xuetao Wei, Hailiang Huang, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2407.01902) | ⚙️ [**Code**](https://github.com/sufenlp/SeqAR) | 🌟 **In Proceedings of NAACL 2025.**
-
+<br>
 **TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to sequentially respond as them, thereby further distracting LLMs and expanding the applicable jailbreak area. SeqAR achieved state-of-the-art jailbreak performances and exhibits strong transferability.
 </div>
 </div>
@@ -83,7 +83,7 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2403.08424) | ⚙️ [**Code**](https://github.com/sufenlp/AttanttionShiftJailbreak) | 🌟 **In  Proceedings of EMNLP 2024.** 
-
+<br>
 **TL;DR**: Leveraging the observation that irrelevant context can distract large language models and diminish their performance, we proposed DAP, which employs specially designed jailbreak templates embedded
 with refined irrelevant context to conceal malicious content. DAP demonstrated robust jailbreak performance.
 </div>
