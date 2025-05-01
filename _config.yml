@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Yang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A17hHjAAAAAJ"
   email            : "yanyang@stu.sufe.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yan-Yang-240"
+  researchgate     : # "https://www.researchgate.net/profile/Yan-Yang-240"
   uri              :
   bitbucket        :
   codepen          :
