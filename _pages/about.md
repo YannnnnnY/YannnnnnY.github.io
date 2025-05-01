@@ -40,8 +40,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025** 
-
-**TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, we prepose ImPart, which assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
+**TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
 
 </div>
 </div>
@@ -52,11 +51,11 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
-[ **🔖 Submitted to ACL 2025** ]
+🔖 **Submitted to ACL 2025** 
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**TL;DR**: 
 </div>
 </div>
 <!-- ============================================================================= -->
@@ -68,9 +67,9 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 
 **<span style="color: #0055aa;">Yan Yang</span>**, Zeguan Xiao, Xin Lu, Hongru Wang, Xuetao Wei, Hailiang Huang, Guanhua Chen, Yun Chen
 
-[[ **📑 Paper** ]](https://arxiv.org/pdf/2407.01902) | [[ **⚙️ Code** ]](https://github.com/sufenlp/SeqAR) | [ **🌟 In Proceedings of NAACL 2025.** ]
-- Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to respond sequentially as these characters in a single output, thereby further
-distracting LLMs and expanding the applicable area of the generated jailbreak prompt.
+📑 [**Paper**](https://arxiv.org/pdf/2407.01902) | ⚙️ [**Code**](https://github.com/sufenlp/SeqAR) | 🌟 **In Proceedings of NAACL 2025.**
+**TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to respond sequentially as these characters in a single output, thereby further
+distracting LLMs and expanding the applicable area of the generated jailbreak prompt. SeqAR achieved state-of-the-art jailbreak performance, 
 </div>
 </div>
 <!-- ============================================================================= -->
@@ -82,8 +81,9 @@ distracting LLMs and expanding the applicable area of the generated jailbreak pr
 
 Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yun Chen
 
-[[ **📑 Paper** ]](https://arxiv.org/pdf/2403.08424) | [[ **⚙️ Code** ]](https://github.com/sufenlp/AttanttionShiftJailbreak) | [ **🌟 In Proceedings of EMNLP 2024.** ]
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+📑 [**Paper**](https://arxiv.org/pdf/2403.08424) | ⚙️ [**Code**](https://github.com/sufenlp/AttanttionShiftJailbreak) | 🌟 **In  Proceedings of EMNLP 2024.** 
+**TL;DR**: Leveraging the observation that irrelevant context can distract large language models and diminish their performance, we proposed DAP, which employs specially designed jailbreak templates embedded
+with refined irrelevant context to conceal malicious content. DAP demonstrated robust jailbreak performance.
 </div>
 </div>
 
