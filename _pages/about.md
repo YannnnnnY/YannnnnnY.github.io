@@ -39,8 +39,8 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
-📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025**
-- **TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
+📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025**  
+- **TL;DR**: 1Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
 
 </div>
 </div>
@@ -53,7 +53,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
-🔖 **Submitted to ACL 2025** 
+🔖 **Submitted to ACL 2025**  
 - **TL;DR**: FigirPro incorporates the high-resource Python program as a pivot to bridge between the natural language query and SQL program. FigirPro consistently outperforms existing text-to-SQL approaches, particularly on challenging queries.
 
 </div>
