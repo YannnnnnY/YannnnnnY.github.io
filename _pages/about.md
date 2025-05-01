@@ -35,7 +35,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/ImPart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### **ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**
+## **ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**
 
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
@@ -54,9 +54,9 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
 🔖 **Submitted to ACL 2025** 
+
 - **TL;DR**: FigirPro incorporates the high-resource Python program as a pivot to bridge between the natural language query and SQL program. FigirPro consistently outperforms existing text-to-SQL approaches, particularly on challenging queries.
 
-**TL;DR**: 
 </div>
 </div>
 <!-- ============================================================================= -->
