@@ -40,7 +40,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025**  
-- **TL;DR**: 1Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
+- **TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
 
 </div>
 </div>
