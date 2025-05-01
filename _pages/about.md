@@ -51,9 +51,9 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
-🔖 **Submitted to ACL 2025** 
-
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
+
+🔖 **Submitted to ACL 2025** 
 
 **TL;DR**: 
 </div>
@@ -68,8 +68,8 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 **<span style="color: #0055aa;">Yan Yang</span>**, Zeguan Xiao, Xin Lu, Hongru Wang, Xuetao Wei, Hailiang Huang, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2407.01902) | ⚙️ [**Code**](https://github.com/sufenlp/SeqAR) | 🌟 **In Proceedings of NAACL 2025.**
-**TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to respond sequentially as these characters in a single output, thereby further
-distracting LLMs and expanding the applicable area of the generated jailbreak prompt. SeqAR achieved state-of-the-art jailbreak performance, 
+
+**TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to sequentially respond as them, thereby further distracting LLMs and expanding the applicable jailbreak area. SeqAR achieved state-of-the-art jailbreak performances and exhibits strong transferability.
 </div>
 </div>
 <!-- ============================================================================= -->
@@ -82,6 +82,7 @@ distracting LLMs and expanding the applicable area of the generated jailbreak pr
 Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2403.08424) | ⚙️ [**Code**](https://github.com/sufenlp/AttanttionShiftJailbreak) | 🌟 **In  Proceedings of EMNLP 2024.** 
+
 **TL;DR**: Leveraging the observation that irrelevant context can distract large language models and diminish their performance, we proposed DAP, which employs specially designed jailbreak templates embedded
 with refined irrelevant context to conceal malicious content. DAP demonstrated robust jailbreak performance.
 </div>
