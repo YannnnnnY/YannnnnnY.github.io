@@ -40,6 +40,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025**
+
 - **TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, ImPart assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
 
 </div>
@@ -49,7 +50,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/FigirPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
+## **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
@@ -64,13 +65,13 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/SeqAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters**
+## **SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters**
 
 **<span style="color: #0055aa;">Yan Yang</span>**, Zeguan Xiao, Xin Lu, Hongru Wang, Xuetao Wei, Hailiang Huang, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2407.01902) | ⚙️ [**Code**](https://github.com/sufenlp/SeqAR) | 🌟 **In Proceedings of NAACL 2025.**
-<br>
-**TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to sequentially respond as them, thereby further distracting LLMs and expanding the applicable jailbreak area. SeqAR achieved state-of-the-art jailbreak performances and exhibits strong transferability.
+
+- **TL;DR**: Building on established character simulation methods for jailbreaks, SeqAR optimizes multiple characters and prompt LLMs to sequentially respond as them, thereby further distracting LLMs and expanding the applicable jailbreak area. SeqAR achieved state-of-the-art jailbreak performances and exhibits strong transferability.
 </div>
 </div>
 <!-- ============================================================================= -->
@@ -78,13 +79,13 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/DAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Distract Large Language Models for Automatic Jailbreak Attack**
+## **Distract Large Language Models for Automatic Jailbreak Attack**
 
 Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yun Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2403.08424) | ⚙️ [**Code**](https://github.com/sufenlp/AttanttionShiftJailbreak) | 🌟 **In  Proceedings of EMNLP 2024.** 
-<br>
-**TL;DR**: Leveraging the observation that irrelevant context can distract large language models and diminish their performance, we proposed DAP, which employs specially designed jailbreak templates embedded
+
+- **TL;DR**: Leveraging the observation that irrelevant context can distract large language models and diminish their performance, we proposed DAP, which employs specially designed jailbreak templates embedded
 with refined irrelevant context to conceal malicious content. DAP demonstrated robust jailbreak performance.
 </div>
 </div>
