@@ -23,7 +23,7 @@ I am a second-year Master candidate at Shanghai University of Finance and Econom
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
 
 <span style="background-color: #fff3cd; padding:0.2em 0.4em; border-radius:4px;">
-  ✨ <strong>Currently seeking PhD opportunities.</strong>
+  ✨ <strong>Currently seeking Ph.D opportunities.</strong>
 </span>
 
 
@@ -40,8 +40,9 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 **<span style="color: #0055aa;">Yan Yang</span>**, Yixia Li, Hongru Wang, Xuetao Wei, Jianqiao Yu, Yun Chen, Guanhua Chen
 
 📑 [**Paper**](https://arxiv.org/pdf/2504.13237) | ⚙️ [**Code**](https://github.com/yanyang19/ImPart) | 🔖 **Submitted to ACL 2025** 
-- Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, assigns variable sparsity ratios to singular vectors based on corresponding singular values.
-- Achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
+
+**TL;DR**: Motivated by the observation that singular vectors with larger singular values encode more important task-specific information, we prepose ImPart, which assigns variable sparsity ratios to singular vectors based on corresponding singular values. ImPart achieves 2× higher compression efficiency than baselines and further improve model quantization and model merge.
+
 </div>
 </div>
 <!-- ============================================================================= -->
