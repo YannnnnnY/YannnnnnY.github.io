@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 Hi!
-I am a second-year Master candidate at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
+👋 Hi! I am a second-year Master candidate at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
 
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
 
@@ -94,7 +93,7 @@ Zeguan Xiao, **<span style="color: #0055aa;">Yan Yang</span>**, Guanhua Chen, Yu
 - *2020.09 - 2023.07* Renming Scholarship, 3rd Prize (top 15%).
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master, School of Computer & Artificial Intelligence, Shanghai University of Finance and Economics, Shanghai.  
+- *2023.09 - 2026.06 (now)*, Master candidate, School of Computer & Artificial Intelligence, Shanghai University of Finance and Economics, Shanghai.  
 - *2019.09 - 2023.06*, Undergraduate, School of Information Management & Engineering, Shanghai University of Finance and Economics, Shanghai. 
 
 <!-- # 💬 Invited Talks
