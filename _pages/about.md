@@ -23,7 +23,7 @@ I am a second-year Master candidate at Shanghai University of Finance and Econom
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
 
 <span style="background-color: #fff3cd; padding:0.2em 0.4em; border-radius:4px;">
-  ✨ <strong>Currently seeking Ph.D opportunities.</strong>
+  ✨ <strong>Currently seeking Ph.D. opportunities.</strong>
 </span>
 
 
