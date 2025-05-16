@@ -74,14 +74,13 @@ with refined irrelevant context to conceal malicious content. DAP demonstrated r
 </div>
 <!-- ============================================================================= -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Under Review</div><img src='images/FigirPro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/FigirPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
-🔖 **Submitted to ACL 2025**  
 - **TL;DR**: FigirPro incorporates the high-resource Python program as a pivot to bridge between the natural language query and SQL program. FigirPro consistently outperforms existing text-to-SQL approaches, particularly on challenging queries.
 
 </div>
