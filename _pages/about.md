@@ -78,7 +78,7 @@ with refined irrelevant context to conceal malicious content. DAP demonstrated r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PiSQL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## **	Pi-SQL: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
+## **Pi-SQL: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
