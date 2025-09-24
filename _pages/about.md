@@ -28,6 +28,7 @@ My research interest includes **Large Language Models**, **Model Merge**, **Mode
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2025 Findings. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025 Main Conference. 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by NAACL 2025 Main Conference.  
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 Main Conference. 
@@ -74,14 +75,16 @@ with refined irrelevant context to conceal malicious content. DAP demonstrated r
 </div>
 <!-- ============================================================================= -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/FigirPro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PiSQL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## **FigirPro: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
+## **	Pi-SQL: Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages**
 
 Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</span>**, Zonghan Yang, Xiao Yan, Guanhua Chen
 
-- **TL;DR**: FigirPro incorporates the high-resource Python program as a pivot to bridge between the natural language query and SQL program. FigirPro consistently outperforms existing text-to-SQL approaches, particularly on challenging queries.
+🌟 **EMNLP 2025 Findings**
+
+- **TL;DR**: Pi-SQL incorporates the high-resource Python program as a pivot to bridge between the natural language query and SQL program. Pi-SQL consistently outperforms existing text-to-SQL approaches, particularly on challenging queries.
 
 </div>
 </div>
@@ -102,6 +105,9 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Toursun Synbio](https://github.com/tsynbio/), China.
+
+# 📌 Services
+- 2025 ACL ARR Reviewer
 
 # 🔆 Others
 - *2022.09 - 2024.09*, Core Technical Team Member of the N.O.P.E. Robotics Club at Shanghai University of Finance and Economics. 
