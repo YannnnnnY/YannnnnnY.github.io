@@ -18,12 +18,12 @@ redirect_from:
 
 # 👋 Hi ! 
 
-I am a second-year Master candidate at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
+I am a third-year Master's Student at Shanghai University of Finance and Economics (SUFE), under the supervision of Prof. [Yun Chen](https://yunc.me/). 
 
 My research interest includes **Large Language Models**, **Model Merge**, **Model Compression**, and **LLM Safety**. Feel free to contact me to discuss or collaborate!
 
 <span style="background-color: #fff3cd; padding:0.2em 0.4em; border-radius:4px;">
-  ✨ <strong>Currently seeking Ph.D. opportunities.</strong>
+  ✨ <strong>Currently seeking Ph.D. opportunities in 26 fall.</strong>
 </span>
 
 
@@ -96,7 +96,7 @@ Yongdong Chi, Hanqing Wang, Yun Chen, **<span style="color: #0055aa;">Yan Yang</
 - *2020.09 - 2023.07* Renming Scholarship, 3rd Prize (top 15%).
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master candidate, School of Computer & Artificial Intelligence, Shanghai University of Finance and Economics, Shanghai.  
+- *2023.09 - 2026.06 (now)*, Master's Student, School of Computer & Artificial Intelligence, Shanghai University of Finance and Economics, Shanghai.  
 - *2019.09 - 2023.06*, Undergraduate, School of Information Management & Engineering, Shanghai University of Finance and Economics, Shanghai. 
 
 <!-- # 💬 Invited Talks
